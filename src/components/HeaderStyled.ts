@@ -1,7 +1,7 @@
 import styled from "styled-components";
 
 const HeaderContainer = styled.header`
-    background-color: #282c34;
+    background-color: #151515;
     padding: 20px;
     text-align: left;
     position: fixed;
@@ -12,7 +12,7 @@ const HeaderContainer = styled.header`
 `;
 
 const HeaderTitle = styled.h1`
-    color: #61dafb;
+    color: #FBFCD4;
     font-size: 2rem;
 `;
 

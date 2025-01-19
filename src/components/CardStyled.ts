@@ -1,13 +1,11 @@
 import styled from "styled-components";
 
 const CardContainer = styled.div`
-    border: 1px solid #ccc;
     border-radius: 8px;
     padding: 16px;
     width: 300px;
     text-align: center;
-    background-color: #f9f9f9;
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    background-color: #FFDD03;
     margin: 10px; 
 `;
 
